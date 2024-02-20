@@ -42,7 +42,7 @@
 [youtube]: https://www.youtube.com/c/Alok
 [instagram]: https://www.instagram.com/Alok/
 --->
-
+<br/>
 - 🔭 I’m currently working on getting Comptia Network+ certification.
 - 🤔 I’m looking for help with some cheatsheet, question banks, mock exams anything that help me to pass the certification
 - 💬 Ask me about anything regarding Cybersecurity
