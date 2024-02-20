@@ -1,59 +1,9 @@
-<h1>Hi, I'm Alok! <br/><a href="https://github.com/CipherSecPro">Cyber Security Analyst</a>, <a href="https://github.com/CipherSecPro">SOC Analyst</a>, <a href="https://www.linkedin.com/in/mdalok/">Cybersecurity Professional</a></h1>
-
-<h2>👨‍💻 Cyber Security Projects:</h2>
-<!---
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/CipherSecPro/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/CipherSecPro/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/CipherSecPro/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/CipherSecPro/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/CipherSecPro/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/CipherSecPro/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/CipherSecPro/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/CipherSecPro/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/CipherSecPro/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/CipherSecPro/Package-Delivery-Pathfinding-Algorithm)
---->
-<!---
-<h2>📺 Popular YouTube Videos</h2>
---->
-<!---
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
---->
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Alok | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Alok | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!---
-[<img align="left" alt="Alok | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Alok | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
---->
-[twitter]: https://twitter.com/IsmailAlok
-[linkedin]: https://www.linkedin.com/in/mdalok/
-<!---
-[youtube]: https://www.youtube.com/c/Alok
-[instagram]: https://www.instagram.com/Alok/
---->
-<br/>
-- 🔭 I’m currently working on getting Comptia Network+ certification.
-- 🤔 I’m looking for help with some cheatsheet, question banks, mock exams anything that help me to pass the certification
-- 💬 Ask me about anything regarding Cybersecurity
-<!---
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
+👋 Hi, I’m @CipherSecPro
+👀 I’m interested in Cyber Security and Coding
+🌱  I’m currently learning whaterver comes in the course of study focusing on CompTIA Network+ Certification, CompTIA Security+ and Coding (python).
+💞️ I'm not currently seeking collaborations; I'm in the learning phase. However, if you share the belief in the power of unity and think we can learn together, feel free to hit me up. Let's raise a virtual toast to knowledge! 🥂 #LearningJourney"
+📫 How to reach me vucyberlearner@gmail.com
+I'm in a committed relationship with success, but my lazy side keeps trying to set me up with its cousin, 'Comfortable Couch.' Somehow, I'll convince success to join the party. 🛋️🎉
 
 <!---
 CipherSecPro/CipherSecPro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
