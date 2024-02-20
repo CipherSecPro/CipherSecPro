@@ -43,9 +43,6 @@
 [instagram]: https://www.instagram.com/Alok/
 --->
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on getting Comptia Network+ certification.
 - 🤔 I’m looking for help with some cheatsheet, question banks, mock exams anything that help me to pass the certification
 - 💬 Ask me about anything regarding Cybersecurity
